@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moviesworld/static/css/main.edd343cb.css",
-    "main.js": "/moviesworld/static/js/main.c087ac4f.js",
+    "main.js": "/moviesworld/static/js/main.d7315c0a.js",
     "index.html": "/moviesworld/index.html",
     "main.edd343cb.css.map": "/moviesworld/static/css/main.edd343cb.css.map",
-    "main.c087ac4f.js.map": "/moviesworld/static/js/main.c087ac4f.js.map"
+    "main.d7315c0a.js.map": "/moviesworld/static/js/main.d7315c0a.js.map"
   },
   "entrypoints": [
     "static/css/main.edd343cb.css",
-    "static/js/main.c087ac4f.js"
+    "static/js/main.d7315c0a.js"
   ]
 }
