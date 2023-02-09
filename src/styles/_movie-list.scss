@@ -1,0 +1,9 @@
+.movie-list {
+    padding: 100px 30px;
+    .movie-list-view {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        grid-template-rows: minmax(400px, auto);
+        gap: 3px;
+    }
+}

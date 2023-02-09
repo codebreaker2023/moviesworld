@@ -1,0 +1,9 @@
+.carousel {
+    margin: 30px;
+    width: 100wh;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    .carousel-content {
+        display: flex;
+    }
+}
